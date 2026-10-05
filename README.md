@@ -14,4 +14,4 @@ python track.py --cookie $ROBLOX_COOKIE --since 2024-01-01
 
 The db file is created in the working directory. Use sqlite3 to query it directly.
 
-<!-- updated: 2026-10-04 -->
+<!-- updated: 2026-10-05 -->
